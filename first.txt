@@ -1,0 +1,5 @@
+Hey How are you 
+this is my first text file 
+I would be adding to the git repository
+First I would add the file using git add
+Then I would commit the file using git commit -m "My first commit"
